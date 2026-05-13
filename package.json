@@ -1,5 +1,5 @@
 {
-  "name": "vroom-tunnel",
+  "name": "spanish-practice",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
@@ -9,4 +9,4 @@
   "scripts": {
     "start": "node server.js"
   }
-}add package config
+}
